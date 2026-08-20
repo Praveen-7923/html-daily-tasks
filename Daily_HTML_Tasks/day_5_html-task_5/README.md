@@ -1,4 +1,4 @@
-# HTML Daily Task 06 - NAB Personal Banking Webpage
+# HTML Daily Task 05 - NAB Personal Banking Webpage
 
 ## 📌 Description
 
