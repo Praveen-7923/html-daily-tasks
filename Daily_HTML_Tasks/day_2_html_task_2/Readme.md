@@ -13,6 +13,7 @@ This project is a registration form designed for students participating in a sch
 
 ## ✨ Features
 
+
 - School name input
 - Student name input
 - Password input
